@@ -1,0 +1,10 @@
+Added Component: Designator=LED1(SM-LED-1206-Blue)
+Added Component: Designator=R?(RM-1206)
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Pin To Net: NetName=VCC Pin=R?-2
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R?-1
+Added Net: Name=NetLED1_1
+Added Member To Class: ClassName=NodeSensor Member=Component C? ZMCT350B
+Added Member To Class: ClassName=NodeSensor Member=Component LED1 LED SMD
+Added Member To Class: ClassName=NodeSensor Member=Component R? 1k

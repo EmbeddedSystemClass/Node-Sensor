@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VCC Pin=DHT11-1
+Removed Pin From Net: NetName=DATA Pin=DHT11-2
+Removed Pin From Net: NetName=GND Pin=DHT11-4
+Removed Member From Class: ClassName=NodeSensor Member=DHT11
+Added Component: Designator=DHT22(JP4-C1T)
+Added Pin To Net: NetName=VCC Pin=DHT22-1
+Added Pin To Net: NetName=DATA Pin=DHT22-2
+Added Pin To Net: NetName=GND Pin=DHT22-4
+Added Member To Class: ClassName=NodeSensor Member=Component DHT22

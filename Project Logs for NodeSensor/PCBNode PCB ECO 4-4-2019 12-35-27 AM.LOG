@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=NodeSensor Member=C?
+Change Component Designator: OldDesignator=C1 NewDesignator=C11
+Change Component Designator: OldDesignator=C2 NewDesignator=C22
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Added Pin To Net: NetName=RESET Pin=HD?-3
+Added Member To Class: ClassName=NodeSensor Member=Component C11 Cap Semi
+Added Member To Class: ClassName=NodeSensor Member=Component C22 Cap Semi
